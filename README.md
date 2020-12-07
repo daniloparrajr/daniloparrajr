@@ -5,8 +5,7 @@
 ### Hi there, I'm Dan 👋
 
 ## I'm a Hiker, Runner, and Developer!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 I’m currently learning javascript!
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to run and hike!
 
