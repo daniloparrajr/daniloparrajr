@@ -1,20 +1,9 @@
-[website]: https://daniloparrajr.github.io/
-[facebook]: https://twitter.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/daniloparrajr
-
 ### Hi there, I'm Dan 👋
 
 ## I'm a Hiker, Runner, and Developer!
 - 🌱 I’m currently learning javascript!
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to run and hike!
-
-### Connect with me:
-
-<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
 <br />
 
