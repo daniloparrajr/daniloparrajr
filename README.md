@@ -2,7 +2,7 @@
 
 ## I'm a Hiker, Runner, and Developer!
 - 🌱 I’m currently learning javascript!
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to run and hike!
 
 <br />
