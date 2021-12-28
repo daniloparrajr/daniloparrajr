@@ -1,9 +1,9 @@
 ### Hi there, I'm Dan 👋
 
-## I'm a Hiker, Runner, and Developer!
-- 🌱 I’m currently learning javascript!
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to run and hike!
+## I'm a Web Developer!
+- 🌱 I'm currently mastering JavaScript!
+- 🥅 2022 Goals: Contribute to Open Source projects
+- ⚡ Fun fact: I love learning new things and getting uncomfortable.
 
 <br />
 
