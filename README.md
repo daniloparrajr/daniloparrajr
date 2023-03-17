@@ -2,7 +2,7 @@
 
 ## I'm a Web Developer!
 - 🌱 I'm currently mastering JavaScript!
-- 🥅 2022 Goals: Contribute to Open Source projects
+- 🥅 2023 Goals: Publish my first WP plugin
 - ⚡ Fun fact: I love learning new things and getting uncomfortable.
 
 <br />
