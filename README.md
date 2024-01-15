@@ -1,7 +1,7 @@
 ## Hey there! 🖐️
-I'm a self-taught web developer with expertise to WordPress development. I'm based in the Philippines.
+I'm a self-taught web developer with expertise in WordPress development. I'm based in the Philippines.
 
-## 2023 Goals
+## 2024 Goals
 - 🚧 Learn PHP OOP in WordPress - [OOP using WordPress](https://carlalexander.ca/object-oriented-programming-wordpress/)
-- ✔️ Contribute to open source project (WooCommerce blocks)
-- ✔️ Build new blog site - [daniloparrajr.com](https://daniloparrajr.com/)
+- 🚧 Contribute to open-source projects (WooCommerce and WordPress)
+- 🚧 Build my first WordPress plugin
